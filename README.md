@@ -1,2 +1,2 @@
 # Database
-CSE301
+CSE301 LAB
